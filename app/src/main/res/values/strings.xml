@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProjetTODO</string>
+    <string name="voir_todo">Voir todo</string>
+    <string name="add">add</string>
+    <string name="cancel">cancel</string>
+    <string name="quitter">Quitter</string>
+
+
+    <string name="urgency">dropDownMenuExample</string>
+    <string name="name" />
+    <string-array name="array_Urgency">
+        <item>Low urgency </item>
+        <item>Normal urgency </item>
+        <item>High urgency</item>
+    </string-array>
+
+</resources>

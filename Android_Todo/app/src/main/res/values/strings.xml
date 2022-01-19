@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_Todo</string>
+    <string name="spinner">Spinner</string>
+    <string name="name">Name</string>
+    <string name="add">ADD</string>
+    <string name="cancel">Cancel</string>
+    <string name="KEY_POJO"> KEY_POJO </string>
+</resources>
